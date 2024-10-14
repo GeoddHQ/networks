@@ -1,7 +1,7 @@
 {
   "id": "autonity/validator/upgrading",
-  "title": "Upgrading",
-  "description": "",
+  "title": "Upgrade the Autonity Validator Node",
+  "description": "*",
   "source": "@site/docs/autonity/validator/upgrading.md",
   "sourceDirName": "autonity/validator",
   "slug": "/autonity/validator/upgrading",
@@ -11,7 +11,9 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/autonity/validator/upgrading.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "displayed_sidebar": "autonitySidebar"
+  },
   "sidebar": "autonitySidebar",
   "previous": {
     "title": "Quickstart",
