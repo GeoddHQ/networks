@@ -1,0 +1,18 @@
+{
+  "id": "celestia/validator/troubleshoot",
+  "title": "Troubleshoot",
+  "description": "Trou",
+  "source": "@site/docs/celestia/validator/troubleshoot.md",
+  "sourceDirName": "celestia/validator",
+  "slug": "/celestia/validator/troubleshoot",
+  "permalink": "/docs/celestia/validator/troubleshoot",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/celestia/validator/troubleshoot.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "celestiaSidebar"
+  },
+  "sidebar": "celestiaSidebar"
+}

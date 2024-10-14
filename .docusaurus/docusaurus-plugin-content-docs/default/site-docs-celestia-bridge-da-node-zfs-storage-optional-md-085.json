@@ -1,0 +1,26 @@
+{
+  "id": "celestia/bridge-da-node/zfs-storage-optional",
+  "title": "ZFS Storage (optional)",
+  "description": "Enabling ZFS compression on your Data Availability (DA) node is a powerful way to improve storage efficiency by compressing data in real-time. However, ZFS compression can be CPU-intensive, so using a high-end CPU is recommended to handle the compression workload without affecting node performance.",
+  "source": "@site/docs/celestia/bridge-da-node/zfs-storage-optional.md",
+  "sourceDirName": "celestia/bridge-da-node",
+  "slug": "/celestia/bridge-da-node/zfs-storage-optional",
+  "permalink": "/docs/celestia/bridge-da-node/zfs-storage-optional",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/celestia/bridge-da-node/zfs-storage-optional.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "celestiaSidebar"
+  },
+  "sidebar": "celestiaSidebar",
+  "previous": {
+    "title": "Quick Commands",
+    "permalink": "/docs/celestia/validator/quick-commands"
+  },
+  "next": {
+    "title": "Running Bridge Node",
+    "permalink": "/docs/celestia/bridge-da-node/running-bridge-node"
+  }
+}

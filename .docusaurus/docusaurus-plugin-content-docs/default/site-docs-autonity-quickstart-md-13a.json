@@ -1,0 +1,26 @@
+{
+  "id": "autonity/quickstart",
+  "title": "Quickstart Guide",
+  "description": "This guide will walk you through setting up both the Autonity and Oracle nodes using Ansible playbooks.",
+  "source": "@site/docs/autonity/quickstart.md",
+  "sourceDirName": "autonity",
+  "slug": "/autonity/quickstart",
+  "permalink": "/docs/autonity/quickstart",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/autonity/quickstart.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "autonitySidebar"
+  },
+  "sidebar": "autonitySidebar",
+  "previous": {
+    "title": "Getting started",
+    "permalink": "/docs/autonity/intro"
+  },
+  "next": {
+    "title": "Upgrading",
+    "permalink": "/docs/autonity/validator/upgrading"
+  }
+}

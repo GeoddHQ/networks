@@ -1,0 +1,24 @@
+{
+  "id": "autonity/validator/updrading",
+  "title": "Upgrading",
+  "description": "",
+  "source": "@site/docs/autonity/validator/updrading.md",
+  "sourceDirName": "autonity/validator",
+  "slug": "/autonity/validator/updrading",
+  "permalink": "/docs/autonity/validator/updrading",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/autonity/validator/updrading.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Troubleshooting",
+    "permalink": "/docs/autonity/validator/troubleshooting"
+  },
+  "next": {
+    "title": "Monitoring",
+    "permalink": "/docs/celestia/bridge-da-node/monitoring"
+  }
+}

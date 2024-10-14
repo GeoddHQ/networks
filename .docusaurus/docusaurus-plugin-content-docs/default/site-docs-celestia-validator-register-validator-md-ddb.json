@@ -1,0 +1,26 @@
+{
+  "id": "celestia/validator/register-validator",
+  "title": "Register Validator",
+  "description": "This guide walks you through the steps required to register your validator node on the Celestia Mocha-4 testnet. It includes instructions for quick-syncing your node, creating or recovering a wallet, and registering a validator. Additionally, the playbooks for automating these steps are referenced for easier execution.",
+  "source": "@site/docs/celestia/validator/register-validator.md",
+  "sourceDirName": "celestia/validator",
+  "slug": "/celestia/validator/register-validator",
+  "permalink": "/docs/celestia/validator/register-validator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/celestia/validator/register-validator.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "celestiaSidebar"
+  },
+  "sidebar": "celestiaSidebar",
+  "previous": {
+    "title": "Quickstart",
+    "permalink": "/docs/celestia/quickstart"
+  },
+  "next": {
+    "title": "Upgrade Validator",
+    "permalink": "/docs/celestia/validator/upgrade-validator"
+  }
+}

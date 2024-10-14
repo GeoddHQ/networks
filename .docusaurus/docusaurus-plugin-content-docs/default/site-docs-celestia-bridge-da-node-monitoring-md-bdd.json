@@ -1,0 +1,22 @@
+{
+  "id": "celestia/bridge-da-node/monitoring",
+  "title": "Monitoring",
+  "description": "For monitoring your Celestia Bridge node’s performance and sync status, the Chaintrails team has developed a public dashboard. By following these steps, you can easily track your node’s health and sync progress in real-time.",
+  "source": "@site/docs/celestia/bridge-da-node/monitoring.md",
+  "sourceDirName": "celestia/bridge-da-node",
+  "slug": "/celestia/bridge-da-node/monitoring",
+  "permalink": "/docs/celestia/bridge-da-node/monitoring",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/celestia/bridge-da-node/monitoring.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "celestiaSidebar"
+  },
+  "sidebar": "celestiaSidebar",
+  "previous": {
+    "title": "Upgrading",
+    "permalink": "/docs/celestia/bridge-da-node/upgrading"
+  }
+}

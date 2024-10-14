@@ -1,0 +1,120 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "autonity/intro",
+          "docs": [
+            {
+              "id": "autonity/intro",
+              "path": "/docs/autonity/intro",
+              "sidebar": "autonitySidebar"
+            },
+            {
+              "id": "autonity/quickstart",
+              "path": "/docs/autonity/quickstart",
+              "sidebar": "autonitySidebar"
+            },
+            {
+              "id": "autonity/validator/backup",
+              "path": "/docs/autonity/validator/backup",
+              "sidebar": "autonitySidebar"
+            },
+            {
+              "id": "autonity/validator/quick-commands",
+              "path": "/docs/autonity/validator/quick-commands",
+              "sidebar": "autonitySidebar"
+            },
+            {
+              "id": "autonity/validator/troubleshooting",
+              "path": "/docs/autonity/validator/troubleshooting",
+              "sidebar": "autonitySidebar"
+            },
+            {
+              "id": "autonity/validator/upgrading",
+              "path": "/docs/autonity/validator/upgrading",
+              "sidebar": "autonitySidebar"
+            },
+            {
+              "id": "celestia/bridge-da-node/monitoring",
+              "path": "/docs/celestia/bridge-da-node/monitoring",
+              "sidebar": "celestiaSidebar"
+            },
+            {
+              "id": "celestia/bridge-da-node/running-bridge-node",
+              "path": "/docs/celestia/bridge-da-node/running-bridge-node",
+              "sidebar": "celestiaSidebar"
+            },
+            {
+              "id": "celestia/bridge-da-node/upgrading",
+              "path": "/docs/celestia/bridge-da-node/upgrading",
+              "sidebar": "celestiaSidebar"
+            },
+            {
+              "id": "celestia/bridge-da-node/zfs-storage-optional",
+              "path": "/docs/celestia/bridge-da-node/zfs-storage-optional",
+              "sidebar": "celestiaSidebar"
+            },
+            {
+              "id": "celestia/intro",
+              "path": "/docs/celestia/intro",
+              "sidebar": "celestiaSidebar"
+            },
+            {
+              "id": "celestia/quickstart",
+              "path": "/docs/celestia/quickstart",
+              "sidebar": "celestiaSidebar"
+            },
+            {
+              "id": "celestia/validator/quick-commands",
+              "path": "/docs/celestia/validator/quick-commands",
+              "sidebar": "celestiaSidebar"
+            },
+            {
+              "id": "celestia/validator/register-validator",
+              "path": "/docs/celestia/validator/register-validator",
+              "sidebar": "celestiaSidebar"
+            },
+            {
+              "id": "celestia/validator/troubleshoot",
+              "path": "/docs/celestia/validator/troubleshoot",
+              "sidebar": "celestiaSidebar"
+            },
+            {
+              "id": "celestia/validator/upgrade-validator",
+              "path": "/docs/celestia/validator/upgrade-validator",
+              "sidebar": "celestiaSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/autonity/intro",
+                "label": "autonity/intro"
+              }
+            },
+            "autonitySidebar": {
+              "link": {
+                "path": "/docs/autonity/intro",
+                "label": "Getting started"
+              }
+            },
+            "celestiaSidebar": {
+              "link": {
+                "path": "/docs/celestia/intro",
+                "label": "celestia/intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "autonity/intro",
+  "title": "Welcome to Autonity and Oracle Node Management with Ansible",
+  "description": "Welcome to our repository! This project provides a comprehensive set of Ansible playbooks designed to simplify the installation, upgrading, and maintenance of Autonity Validator nodes and Oracle nodes.",
+  "source": "@site/docs/autonity/intro.md",
+  "sourceDirName": "autonity",
+  "slug": "/autonity/intro",
+  "permalink": "/docs/autonity/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/autonity/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "autonitySidebar"
+  },
+  "sidebar": "autonitySidebar",
+  "next": {
+    "title": "Quickstart",
+    "permalink": "/docs/autonity/quickstart"
+  }
+}

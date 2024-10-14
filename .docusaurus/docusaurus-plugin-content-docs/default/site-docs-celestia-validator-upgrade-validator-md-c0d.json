@@ -1,0 +1,26 @@
+{
+  "id": "celestia/validator/upgrade-validator",
+  "title": "Upgrade Validator",
+  "description": "When a new release is announced (such as in the Celestia Discord channel), you must update your validator to the specified version. This is handled efficiently by modifying the app\\_version variable in the Ansible playbook.",
+  "source": "@site/docs/celestia/validator/upgrade-validator.md",
+  "sourceDirName": "celestia/validator",
+  "slug": "/celestia/validator/upgrade-validator",
+  "permalink": "/docs/celestia/validator/upgrade-validator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/celestia/validator/upgrade-validator.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "celestiaSidebar"
+  },
+  "sidebar": "celestiaSidebar",
+  "previous": {
+    "title": "Register Validator",
+    "permalink": "/docs/celestia/validator/register-validator"
+  },
+  "next": {
+    "title": "Quick Commands",
+    "permalink": "/docs/celestia/validator/quick-commands"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "autonity/validator/backup and restore",
+  "title": "Backup and Restore",
+  "description": "",
+  "source": "@site/docs/autonity/validator/backup and restore.md",
+  "sourceDirName": "autonity/validator",
+  "slug": "/autonity/validator/backup and restore",
+  "permalink": "/docs/autonity/validator/backup and restore",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/autonity/validator/backup and restore.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quickstart Guide",
+    "permalink": "/docs/autonity/quickstart"
+  },
+  "next": {
+    "title": "Quick Actions",
+    "permalink": "/docs/autonity/validator/quick-commands"
+  }
+}

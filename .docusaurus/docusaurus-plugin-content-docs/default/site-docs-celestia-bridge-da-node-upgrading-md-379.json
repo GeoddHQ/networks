@@ -1,0 +1,26 @@
+{
+  "id": "celestia/bridge-da-node/upgrading",
+  "title": "Upgrading",
+  "description": "To keep your Celestia Bridge node up to date with the latest features and network changes, you can quickly upgrade the node using the provided Ansible playbook. This method allows you to easily manage upgrades across one or more bridge nodes with minimal effort.",
+  "source": "@site/docs/celestia/bridge-da-node/upgrading.md",
+  "sourceDirName": "celestia/bridge-da-node",
+  "slug": "/celestia/bridge-da-node/upgrading",
+  "permalink": "/docs/celestia/bridge-da-node/upgrading",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/celestia/bridge-da-node/upgrading.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "celestiaSidebar"
+  },
+  "sidebar": "celestiaSidebar",
+  "previous": {
+    "title": "Running Bridge Node",
+    "permalink": "/docs/celestia/bridge-da-node/running-bridge-node"
+  },
+  "next": {
+    "title": "Monitoring",
+    "permalink": "/docs/celestia/bridge-da-node/monitoring"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "autonity/validator/upgrading",
+  "title": "Upgrading",
+  "description": "",
+  "source": "@site/docs/autonity/validator/upgrading.md",
+  "sourceDirName": "autonity/validator",
+  "slug": "/autonity/validator/upgrading",
+  "permalink": "/docs/autonity/validator/upgrading",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/autonity/validator/upgrading.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "autonitySidebar",
+  "previous": {
+    "title": "Quickstart",
+    "permalink": "/docs/autonity/quickstart"
+  },
+  "next": {
+    "title": "Quick Actions",
+    "permalink": "/docs/autonity/validator/quick-commands"
+  }
+}

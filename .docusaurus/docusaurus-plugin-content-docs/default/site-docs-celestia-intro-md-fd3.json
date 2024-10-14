@@ -1,0 +1,22 @@
+{
+  "id": "celestia/intro",
+  "title": "Welcome",
+  "description": "Welcome to the Celestia Validator and Bridge Node Documentation! Here, you'll find detailed guides and resources to help you set up, manage, and maintain your Celestia nodes, including validator nodes, bridge nodes, and data availability nodes (DA). Whether you're a new user or an advanced operator, our comprehensive documentation will guide you through each step of the process.",
+  "source": "@site/docs/celestia/intro.md",
+  "sourceDirName": "celestia",
+  "slug": "/celestia/intro",
+  "permalink": "/docs/celestia/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/celestia/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "celestiaSidebar"
+  },
+  "sidebar": "celestiaSidebar",
+  "next": {
+    "title": "Quickstart",
+    "permalink": "/docs/celestia/quickstart"
+  }
+}

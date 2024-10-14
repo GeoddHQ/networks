@@ -1,0 +1,26 @@
+{
+  "id": "celestia/bridge-da-node/running-bridge-node",
+  "title": "Running Bridge Node",
+  "description": "*",
+  "source": "@site/docs/celestia/bridge-da-node/running-bridge-node.md",
+  "sourceDirName": "celestia/bridge-da-node",
+  "slug": "/celestia/bridge-da-node/running-bridge-node",
+  "permalink": "/docs/celestia/bridge-da-node/running-bridge-node",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/celestia/bridge-da-node/running-bridge-node.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "displayed_sidebar": "celestiaSidebar"
+  },
+  "sidebar": "celestiaSidebar",
+  "previous": {
+    "title": "ZFS Storage (optional)",
+    "permalink": "/docs/celestia/bridge-da-node/zfs-storage-optional"
+  },
+  "next": {
+    "title": "Upgrading",
+    "permalink": "/docs/celestia/bridge-da-node/upgrading"
+  }
+}
