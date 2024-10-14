@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgeodd_networks=self.webpackChunkgeodd_networks||[]).push([[4583],{8198:(e,t,i)=>{i.r(t),i.d(t,{default:()=>r});var n=i(4586),o=i(781);var s=i(4848);function r(){const{siteConfig:e}=(0,n.A)();return(0,s.jsx)(o.A,{title:`Hello from ${e.title}`,description:"Description will go into a meta tag in <head />"})}}}]);
