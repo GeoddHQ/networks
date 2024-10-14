@@ -49,7 +49,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/social-card.png',
     navbar: {
       title: '',
       logo: {
@@ -73,7 +73,7 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} Geodd Pvt Ltd. 100% on-chain Hosted`,
+      copyright: `Copyright © ${new Date().getFullYear()} Geodd Pvt Ltd.`,
     },
     prism: {
       theme: prismThemes.github,
