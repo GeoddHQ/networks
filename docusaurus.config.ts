@@ -72,7 +72,7 @@ const config: Config = {
       ],
     },
     footer: {
-      style: 'dark',
+      style: 'light',
       copyright: `Copyright © ${new Date().getFullYear()} Geodd Pvt Ltd.`,
     },
     prism: {

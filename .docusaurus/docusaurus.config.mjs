@@ -47,7 +47,7 @@ export default {
       "hideOnScroll": false
     },
     "footer": {
-      "style": "dark",
+      "style": "light",
       "copyright": "Copyright © 2024 Geodd Pvt Ltd.",
       "links": []
     },

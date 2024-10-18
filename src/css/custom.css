@@ -16,6 +16,7 @@
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --ifm-menu-color-background-active:#f4f6f7;
+  --ifm-toc-border-color: #e6ebf2
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -30,7 +31,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 body{
-  background: #f4f6f7;
+  background: #f9fafb;
 }
 .footer--dark{
   padding: 10px;
@@ -61,4 +62,16 @@ body{
   text-transform: uppercase;
   font-size: 12px;
   margin-top: 20px;
+}
+
+.menu.thin-scrollbar{
+  padding: 1.5rem 0 0.5rem 1.5rem;
+}
+.navbar--fixed-top{
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.footer{
+  font-size: 12px;
+  padding: 15px;
 }
