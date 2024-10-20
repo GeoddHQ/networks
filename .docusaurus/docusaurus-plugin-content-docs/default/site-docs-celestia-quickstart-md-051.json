@@ -20,7 +20,7 @@
     "permalink": "/docs/celestia/intro"
   },
   "next": {
-    "title": "Register Validator",
-    "permalink": "/docs/celestia/validator/register-validator"
+    "title": "Security",
+    "permalink": "/docs/celestia/validator/security"
   }
 }

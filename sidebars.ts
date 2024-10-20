@@ -64,6 +64,11 @@ const sidebars: SidebarsConfig = {
       collapsible: false,
       collapsed: false,
       items: [
+        {
+          type: 'doc',
+          id: 'celestia/validator/security', // document ID
+          label: 'Security', // sidebar label
+        },
         'celestia/validator/register-validator',
         'celestia/validator/upgrade-validator',
         'celestia/validator/quick-commands',

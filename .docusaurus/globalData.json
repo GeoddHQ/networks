@@ -81,6 +81,11 @@
               "sidebar": "celestiaSidebar"
             },
             {
+              "id": "celestia/validator/security",
+              "path": "/docs/celestia/validator/security",
+              "sidebar": "celestiaSidebar"
+            },
+            {
               "id": "celestia/validator/troubleshoot",
               "path": "/docs/celestia/validator/troubleshoot",
               "sidebar": "celestiaSidebar"

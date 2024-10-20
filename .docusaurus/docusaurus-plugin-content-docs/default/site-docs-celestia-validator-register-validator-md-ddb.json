@@ -16,8 +16,8 @@
   },
   "sidebar": "celestiaSidebar",
   "previous": {
-    "title": "Quickstart",
-    "permalink": "/docs/celestia/quickstart"
+    "title": "Security",
+    "permalink": "/docs/celestia/validator/security"
   },
   "next": {
     "title": "Upgrade Validator",

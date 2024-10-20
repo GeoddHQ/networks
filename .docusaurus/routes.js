@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '8c7'),
+    component: ComponentCreator('/docs', 'b8f'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'dbf'),
+        component: ComponentCreator('/docs', '676'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '2c6'),
+            component: ComponentCreator('/docs', '25e'),
             routes: [
               {
                 path: '/docs/autonity/intro',
@@ -205,6 +205,12 @@ export default [
               {
                 path: '/docs/celestia/validator/register-validator',
                 component: ComponentCreator('/docs/celestia/validator/register-validator', 'b54'),
+                exact: true,
+                sidebar: "celestiaSidebar"
+              },
+              {
+                path: '/docs/celestia/validator/security',
+                component: ComponentCreator('/docs/celestia/validator/security', 'cab'),
                 exact: true,
                 sidebar: "celestiaSidebar"
               },
