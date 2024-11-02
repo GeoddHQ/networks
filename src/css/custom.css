@@ -75,3 +75,7 @@ body{
   font-size: 12px;
   padding: 15px;
 }
+
+.menu__link{
+  font-size: 14px;
+}
