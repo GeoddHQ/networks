@@ -8,8 +8,7 @@ Validators in Celestia often rely on cloud or baremetal servers for their infras
 ### Key features we’ll leverage include:
 
 1. Traffic filtering and rate limiting to mitigate potential DDoS attacks.
-2. Dynamic IP blocking using blacklists like [Firehol Level 4](https://iplists.firehol.org/?ipset=firehol_level4) and [Emerging Threats](https://iplists.firehol.org/?ipset=et_block) to automatically block known malicious IPs.
-3. Flexible firewall rules that allow only necessary traffic for Celestia consensus node operations.
+2. Flexible firewall rules that allow only necessary traffic for Celestia consensus node operations.
 
 ### Install FireHOL
 
@@ -27,7 +26,7 @@ Check that FireHOL is installed and working by running:
 sudo firehol version
 ```
 
-## Configure FireHOL for Celestia Consensus Node
+## Configure FireHOL for Celestia consensus node
 
 Create or modify your FireHOL configuration file, typically located at ```/etc/firehol/firehol.conf```. The following configuration allows P2P, RPC, and gRPC traffic, while applying security measures such as rate limiting and IP blacklisting.
 
@@ -124,7 +123,7 @@ Currently bind to eth0, make sure you bind it to the correct interface or bind a
 - Blocked IPs: Dynamic IP blocking is applied using blacklists like Firehole Level4 and
 - Emerging Threats.
 
-## Set Up Cron to Automatically Update Blocked IPs
+<!-- ## Set Up Cron to Automatically Update Blocked IPs
 
 To maintain an updated list of blocked IPs, set up a cron job to fetch the latest blacklists every hour. Here’s how you can configure it.
 
@@ -189,7 +188,7 @@ Then, add this line at the end:
 0 * * * * /usr/local/bin/update-blocked-ips.sh
 ```
 
-This cron job will run every hour, update the blocked IPs, and reload FireHOL with the new list.
+This cron job will run every hour, update the blocked IPs, and reload FireHOL with the new list. -->
 
 ## Apply and Test FireHOL Configuration
 Ensure FireHOL is enabled to start at boot by editing its default configuration:

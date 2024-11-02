@@ -7,5 +7,3 @@ Welcome to the Celestia Validator and Bridge Node Documentation! Here, you'll fi
 
 Jump in and explore how to set up your Celestia nodes and automate tasks with Ansible playbooks!
 
-### Jump right in
-

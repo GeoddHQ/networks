@@ -1,7 +1,7 @@
 {
   "id": "celestia/validator/security",
   "title": "Security for Celestia App",
-  "description": "Motivation",
+  "description": "Validators in Celestia often rely on cloud or baremetal servers for their infrastructure. While some providers offer basic protection, most setups lack advanced firewall solutions such as DDoS mitigation. This makes it critical to implement your own measures. By using FireHOL, we introduce a flexible and lightweight firewall that supports advanced features like rate limiting and dynamic IP blacklisting. This solution ensures that your node can handle increasing traffic while protecting it from malicious actors.",
   "source": "@site/docs/celestia/validator/security.md",
   "sourceDirName": "celestia/validator",
   "slug": "/celestia/validator/security",

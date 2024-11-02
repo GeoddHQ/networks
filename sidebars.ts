@@ -67,7 +67,7 @@ const sidebars: SidebarsConfig = {
         {
           type: 'doc',
           id: 'celestia/validator/security', // document ID
-          label: 'Security', // sidebar label
+          label: 'Security (optional)', // sidebar label
         },
         'celestia/validator/register-validator',
         'celestia/validator/upgrade-validator',
