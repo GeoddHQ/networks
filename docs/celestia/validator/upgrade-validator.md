@@ -63,7 +63,7 @@ When a new version is released (e.g., `"v2.1.3"`), you must change the `app_vers
     Additionally, confirm the running version of the Celestia app:
 
     ```bash
-    bashCopy codecelestia-appd version
+   celestia-appd version
     ```
 
     The version should match the one specified in the `app_version` variable.

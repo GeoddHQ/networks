@@ -120,8 +120,6 @@ Currently bind to eth0, make sure you bind it to the correct interface or bind a
 - Prometheus (26660): Restricted to internal networks or trusted IPs for security.
 - gRPC (9090, 9091): Opened for gRPC communication.
 - REST API (1317): Opened for API access.
-- Blocked IPs: Dynamic IP blocking is applied using blacklists like Firehole Level4 and
-- Emerging Threats.
 
 <!-- ## Set Up Cron to Automatically Update Blocked IPs
 
